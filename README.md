@@ -15,6 +15,6 @@ I created a Short Video Showing The Script & How to use it, and I pointed to two
 https://youtu.be/KkhPN7Z4Fy8
 
 Download The Project Source Code With Trainined Model Here:
-https://hasanaboulhasan.com/python-image-background-remover/
+https://learnwithhasan.com/remove-image-background-with-python/
 
 Thank You!
