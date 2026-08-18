@@ -15,7 +15,7 @@ I created a Short Video Showing The Script & How to use it, and I pointed to two
 https://youtu.be/KkhPN7Z4Fy8
 
 Download The Project Source Code With Trainined Model Here:
-https://learnwithhasan.com/remove-image-background-with-python/
+https://learnwithhasan.com/remove-image-background-with-python/?utm_source=github&utm_medium=readme&utm_campaign=Image-Background-Remover-Python&utm_content=body
 
 Thank You!
 
@@ -27,12 +27,12 @@ Thank You!
 
 This tool is one block. The book has the other 46.
 
-**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/)** is my free 74-page book.
+**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/?utm_source=github&utm_medium=readme&utm_campaign=Image-Background-Remover-Python&utm_content=footer)** is my free 74-page book.
 47 building blocks for shipping real apps with AI. One block per page, each with the exact
 prompt to hand your AI.
 
-Built by **[Hasan Aboul Hasan](https://learnwithhasan.com)**. I build real products with AI and
+Built by **[Hasan Aboul Hasan](https://learnwithhasan.com/?utm_source=github&utm_medium=readme&utm_campaign=Image-Background-Remover-Python&utm_content=footer)**. I build real products with AI and
 write down exactly how.
-[Guides](https://learnwithhasan.com/guides/) &nbsp;·&nbsp;
+[Guides](https://learnwithhasan.com/guides/?utm_source=github&utm_medium=readme&utm_campaign=Image-Background-Remover-Python&utm_content=footer) &nbsp;·&nbsp;
 [YouTube](https://www.youtube.com/@HasanAboulHasan) &nbsp;·&nbsp;
-[Community](https://learnwithhasan.com/community/)
+[Community](https://learnwithhasan.com/community/?utm_source=github&utm_medium=readme&utm_campaign=Image-Background-Remover-Python&utm_content=footer)
